@@ -4,4 +4,4 @@
 ####Bibliography:
  1.[Floyd-Warshall algorithm](http://math.mit.edu/~rothvoss/18.304.1PM/Presentations/1-Chandler-18.304lecture1.pdf)
  
- 2.[Fox algorithm](www.eraldoluis.pro.br/lib/exe/fetch.php/2002.1-fox.ps.gz)
+ 2.[Fox algorithm](http://www.lac.inpe.br/~stephan/CAP-372/Fox_example.pdf)
