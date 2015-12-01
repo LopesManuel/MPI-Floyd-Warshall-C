@@ -4,7 +4,7 @@
 ####Commands:
  mpirun -np 1 -hostfile mycluster program  < input12 > out12_4p_4m_1np 
 
-####Cluste File Example:
+####Cluster File Example:
 localhost slots=2 <br/>
 blabla@ssh.dcc.bla.bla@t0107 cpu=2 <br/>
 ^(Specify your machine)
