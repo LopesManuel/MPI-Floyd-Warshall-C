@@ -115,7 +115,7 @@ void radixsort(int *vetor, int tamanho) {
 int chnkd_MPI_Send(void *buf, long count, MPI_Datatype type,int dest){
   int size;
   long offset=0;
-  int  chunck_size=MPI_REDUCE_BLOCKSIZE; /* defined in mcstas.h */
+  int  chunck_size=MPI_REDUCE_BLOCKSIZE;
   
   if (!buf || count <= 0) return(MPI_ERR_COUNT);
   MPI_Type_size(type, &size);
